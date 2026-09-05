@@ -13,7 +13,6 @@
 
 I build AI systems, contribute to production-grade open source projects, and research ML-based diagnostic tools. Currently working toward a research paper on AI-driven malaria detection.
 
-- 🔭 **Research Intern** at Thapar Institute — building AI diagnostic pipelines
 - 🌱 **LFX Open Source Contributor** under Linux Foundation — fixed a critical Kubernetes RBAC bug in **OpenEverest (Percona)** adopted by maintainers
 - 💡 Interested in **ML, Computer Vision, Data Science, and Cloud-native systems**
 - 📍 Patiala, Punjab, India
